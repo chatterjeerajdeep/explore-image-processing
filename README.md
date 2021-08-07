@@ -1,2 +1,6 @@
 # explore-image-processing
-This repository contains my experimentation with image processing using OpenCV
+### Basics
+This project contains my experimentations with tools and functions present in OpenCV
+
+### Logo Detection
+A simple Project in OpenCV to detect logos of organizations like Facebook and Twitter, using simple contour-based methods
